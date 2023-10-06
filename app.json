@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AgendaUDB",
+    "slug": "AgendaUDB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AgendaUDB"
+}
